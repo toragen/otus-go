@@ -1,4 +1,4 @@
-module reverse
+module github.com/toragen/otus-go/hw01_hello_otus
 
 go 1.22.5
 
